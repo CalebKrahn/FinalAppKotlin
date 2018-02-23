@@ -26,4 +26,4 @@ import java.util.*
             txtMessage.setText("Today is ${day}, take out your garbage.")
         }
     }
-    }
+}
